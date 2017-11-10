@@ -1,0 +1,13 @@
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.deps.json
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.json
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.dev.json
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.dll
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.AssemblyInfo.cs
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.pdb
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.dll
+C:\Code\ProvaTravis\ClassLibrary1\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.pdb
