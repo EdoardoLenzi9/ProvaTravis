@@ -11,3 +11,16 @@ C:\Code\ProvaTravis\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLib
 C:\Code\ProvaTravis\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Code\ProvaTravis\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netcoreapp10.dll
 C:\Code\ProvaTravis\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp1.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\bin\Debug\netcoreapp1.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\bin\Debug\netcoreapp1.1\ClassLibrary1.deps.json
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\bin\Debug\netcoreapp1.1\ClassLibrary1.runtimeconfig.json
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\bin\Debug\netcoreapp1.1\ClassLibrary1.runtimeconfig.dev.json
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\bin\Debug\netcoreapp1.1\ClassLibrary1.dll
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\bin\Debug\netcoreapp1.1\ClassLibrary1.pdb
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLibrary1.dll
+C:\Users\Edoardo\Desktop\xunit test\ClassLibrary1\obj\Debug\netcoreapp1.1\ClassLibrary1.pdb
